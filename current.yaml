@@ -1,0 +1,6 @@
+path: datasets/current # dataset root dir
+train: train\images # Training images path
+val: val\images # Validation images path
+
+nc: 3 # Number of classes
+names: ['deer','musk_deer','roe'] # Class names
